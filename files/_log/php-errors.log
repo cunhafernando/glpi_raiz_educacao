@@ -1,1 +1,36 @@
 [2022-10-14 13:31:42] glpiphplog.WARNING: Test logger  
+[2022-10-14 19:18:23] glpiphplog.WARNING: Test logger  
+[2022-10-14 19:18:23] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in C:\xampp\htdocs\glpi\src\Config.php at line 2073
+  Backtrace :
+  src\Config.php:2218                                Config::showSystemInfoTable()
+  src\Config.php:2687                                Config->showSystemInformations()
+  src\CommonGLPI.php:689                             Config::displayTabContentForItem()
+  ajax\common.tabs.php:113                           CommonGLPI::displayStandardTab()
+  
+[2022-10-14 19:18:42] glpiphplog.WARNING: Test logger  
+[2022-10-14 19:18:43] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in C:\xampp\htdocs\glpi\src\Config.php at line 2073
+  Backtrace :
+  src\Config.php:2218                                Config::showSystemInfoTable()
+  src\Config.php:2687                                Config->showSystemInformations()
+  src\CommonGLPI.php:689                             Config::displayTabContentForItem()
+  src\CommonGLPI.php:653                             CommonGLPI::displayStandardTab()
+  ajax\common.tabs.php:113                           CommonGLPI::displayStandardTab()
+  
+[2022-10-14 19:28:50] glpiphplog.WARNING: Test logger  
+[2022-10-14 19:28:50] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in C:\xampp\htdocs\glpi\src\Config.php at line 2073
+  Backtrace :
+  src\Config.php:2218                                Config::showSystemInfoTable()
+  src\Config.php:2687                                Config->showSystemInformations()
+  src\CommonGLPI.php:689                             Config::displayTabContentForItem()
+  src\CommonGLPI.php:653                             CommonGLPI::displayStandardTab()
+  ajax\common.tabs.php:113                           CommonGLPI::displayStandardTab()
+  
+[2022-10-14 19:35:30] glpiphplog.WARNING: Test logger  
+[2022-10-14 19:35:30] glpiphplog.WARNING:   *** PHP Warning (2): Array to string conversion in C:\xampp\htdocs\glpi\src\Config.php at line 2073
+  Backtrace :
+  src\Config.php:2218                                Config::showSystemInfoTable()
+  src\Config.php:2687                                Config->showSystemInformations()
+  src\CommonGLPI.php:689                             Config::displayTabContentForItem()
+  src\CommonGLPI.php:653                             CommonGLPI::displayStandardTab()
+  ajax\common.tabs.php:113                           CommonGLPI::displayStandardTab()
+  
